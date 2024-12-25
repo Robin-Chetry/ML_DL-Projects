@@ -1,2 +1,2 @@
-# ml_algo_implemment
-ml_alogrithms
+# Machine Learning and Deep Learning Projects
+
